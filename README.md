@@ -4,20 +4,20 @@
 
 <p align="center">
 <a href="https://rocketseat.com.br">
-    <img alt="Challenges by Rocketseat" src="https://img.shields.io/badge/Challenges%20by-Rocketseat-7159c1">
+    <img alt="Rocketseat" src="https://img.shields.io/badge/Challenges%20by-Rocketseat-7159c1">
 </a>
 
 </p>
 
-## 🚀 O que é o LaunchBase Bootcamp?
+## 🚀 O que é o LaunchBase Bootcamp? 🚀
 
 O LaunchBase é um treinamento no formato de bootcamp online que tem duração de 8 semanas. A cada semana os conteúdos são liberados de acordo com um cronograma, guiando o aluno pelas ferramentas e conceitos mais modernos de desenvolvimento web.
 
-O LaunchBase é um bootcamp online com duração mínima de 8 semanas para desenvolvimento web usando JavaScript. A cada semana é liberado um bloco de conteúdo, junto com projetos e desafios para a fixação do conteúdo.
+O LaunchBase é um bootcamp online com duração mínima de 8 semanas para desenvolvimento web, usando majoritariamente JavaScript. A cada semana é liberado um bloco de conteúdo, junto com projetos e desafios para a fixação do conteúdo.
 
 # Desafios do Bootcamp
-## 🔖 Sobre
-Este é um dos desafios propostos durante o [**LaunchBase**](https://rocketseat.com.br/launchbase) realizado pela [**Rocketseat**](https://rocketseat.com.br), onde foi criado um site de receitas utilizando HTML, CSS, e JS(no front-end e no back-end).
+## 🔖 Sobre 🔖
+Este é um dos desafios propostos durante o [**LaunchBase**](https://rocketseat.com.br/launchbase) realizado pela [**Rocketseat**](https://rocketseat.com.br), onde foi criado um site de receitas utilizando HTML, CSS, e JS (no front-end e no back-end).
 
 
 
