@@ -14,7 +14,7 @@ O LaunchBase é um treinamento no formato de bootcamp online que tem duração d
 
 O LaunchBase é um bootcamp online com duração mínima de 8 semanas para desenvolvimento web, usando majoritariamente JavaScript. A cada semana é liberado um bloco de conteúdo, junto com projetos e desafios para a fixação do conteúdo.
 
-# :clipboard: O Que São os Desafios do Bootcamp
+# :clipboard: O Que São os Desafios do Bootcamp?
  
 Este é um dos desafios propostos durante o [**LaunchBase**](https://rocketseat.com.br/launchbase) realizado pela [**Rocketseat**](https://rocketseat.com.br). Os desafios são parte estrutural do curso, pois é aqui onde o aluno confirma que aprendeu os conteúdos apresentados. São propostas de aprendizado para além da aula, que foca na prática de conceitos previamente apresentados.
 
